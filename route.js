@@ -17,7 +17,7 @@ route.post("/login", async (req, res) => {
     const query = new UserModel({
         name: req.body.name,
         email: req.body.email,
-        questions: {
+        que: {
             r1: genQuestion(round1QuestionForm, round1QuestionBank),
             r2: genQuestion(round2QuestionForm, round2QuestionBank),
         },

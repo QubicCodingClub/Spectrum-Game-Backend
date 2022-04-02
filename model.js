@@ -13,6 +13,7 @@ const UserModel = db.model(
         },
         s_r1: { type: Number, required: false, default: 0 },
         s_r2: { type: Number, required: false, default: 0 },
+        verified: { type: Boolean, required: false, default: false },
     }),
     "User"
 );
