@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "que": "Who are you?",
+        "opt": {
+            "a": "Man",
+            "b": "Lady",
+            "c": "God",
+            "d": "personality"
+        },
+        "ans": "d"
+    },
+    {
+        "id": 1,
+        "que": "Who are you?",
+        "opt": {
+            "a": "Man",
+            "b": "Lady",
+            "c": "God",
+            "d": "personality"
+        },
+        "ans": "d"
+    },
+    {
+        "id": 2,
+        "que": "Who are you?",
+        "opt": {
+            "a": "Man",
+            "b": "Lady",
+            "c": "God",
+            "d": "personality"
+        },
+        "ans": "d"
+    },
+    {
+        "id": 3,
+        "que": "Who are you?",
+        "opt": {
+            "a": "Man",
+            "b": "Lady",
+            "c": "God",
+            "d": "personality"
+        },
+        "ans": "d"
+    },
+    {
+        "id": 4,
+        "que": "Who are you?",
+        "opt": {
+            "a": "Man",
+            "b": "Lady",
+            "c": "God",
+            "d": "personality"
+        },
+        "ans": "d"
+    }
+]
